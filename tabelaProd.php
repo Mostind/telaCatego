@@ -20,14 +20,14 @@
       
          <!--A primeira parte da tabela-->
       <div class="grupo">
-            <div class="sub-grupo">IDUSER</div>
+            <div class="sub-grupo">IDCATEGORIA</div>
             <div class="sub-grupo">NOME</div>
  
       </div>
            <!-- A segunda parte da tabela  -->
            <div class="grupo2">
                <div class="sub-grupo2">1</div>
-               <div class="sub-grupo2">JOÃO PEDRO DE ALMEIDA</div>
+               <div class="sub-grupo2">Massa</div>
 
                <!-- Botões dentro da tabela -->
                <div class="sub-grupo2"><input type="submit" value="Enviar"> </div>
@@ -36,7 +36,7 @@
            
            <div class="grupo2">
             <div class="sub-grupo2">2</div>
-            <div class="sub-grupo2">Alberto Ferraira de Sousa</div>
+            <div class="sub-grupo2">PãoASD</div>
 
             <!-- Botões dentro da tabela -->
             <div class="sub-grupo2"><input type="submit" value="Enviar"> </div>
@@ -45,7 +45,7 @@
         
         <div class="grupo2">
             <div class="sub-grupo2">3</div>
-            <div class="sub-grupo2">JOÃO PEDRO DE ALMEIDA</div>
+            <div class="sub-grupo2">Pão</div>
 
             <!-- Botões dentro da tabela -->
             <div class="sub-grupo2"><input type="submit" value="Enviar"> </div>
@@ -54,7 +54,7 @@
         
         <div class="grupo2">
             <div class="sub-grupo2">4</div>
-            <div class="sub-grupo2">JOÃO PEDRO DE ALMEIDA</div>
+            <div class="sub-grupo2">Pão</div>
 
             <!-- Botões dentro da tabela -->
             <div class="sub-grupo2"><input type="submit" value="Enviar"> </div>
